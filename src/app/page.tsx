@@ -99,7 +99,7 @@ export default function HomePage() {
           ]}
           mediaItems={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/man-cycling-outdoors-with-his-bike_23-2149748602.jpg?_wi=1",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773518889849-xcy1fvyu.jpg",
               imageAlt: "Premium carbon track wheels on velodrome",
             },
           ]}
@@ -144,10 +144,10 @@ export default function HomePage() {
               title: "Sprint Power",
               description: "Stiff, responsive wheels designed for explosive acceleration and maximum power transfer.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg?_wi=1",
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773518889849-xcy1fvyu.jpg",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg?_wi=1",
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773518889849-2s30380l.jpg",
               },
             },
             {
@@ -155,10 +155,10 @@ export default function HomePage() {
               title: "Aerodynamic Excellence",
               description: "Deep-section rims and optimized spoke patterns minimize drag without sacrificing stability.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg?_wi=1",
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773518889849-50yn3nzk.jpg",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg?_wi=1",
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773518889848-t57wuezx.jpg",
               },
             },
             {
@@ -166,10 +166,10 @@ export default function HomePage() {
               title: "Reliability",
               description: "Hand-built to exacting standards with meticulous quality control. Built to last through intense training and competition.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg?_wi=1",
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773518889848-t1kd92ma.jpg",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg?_wi=2",
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773518889849-dfaphvgx.jpg",
               },
             },
           ]}
