@@ -89,7 +89,7 @@ export default function CraftsmanshipPage() {
           ]}
           mediaItems={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg?_wi=6",
               imageAlt: "Expert wheelbuilder at work",
             },
           ]}
@@ -114,21 +114,21 @@ export default function CraftsmanshipPage() {
                   title: "James Mitchell",
                   subtitle: "Head Wheelbuilder",
                   detail: "15+ years building track wheels. Former professional track cyclist. Specializes in sprint and pursuit wheelsets.",
-                  imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg",
+                  imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg?_wi=7",
                 },
                 {
                   id: "2",
                   title: "Sofia Rossi",
                   subtitle: "Senior Wheelbuilder",
                   detail: "12 years of precision building experience. Expert in aerodynamic wheel design and custom configurations.",
-                  imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg",
+                  imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg?_wi=7",
                 },
                 {
                   id: "3",
                   title: "Kaito Tanaka",
                   subtitle: "Master Technician",
                   detail: "Specializes in high-tension builds and carbon rim expertise. Obsessive about quality control and spoke tensioning.",
-                  imageSrc: "http://img.b2bpic.net/free-photo/mechanic-examining-bicycle-wheel_1170-2575.jpg",
+                  imageSrc: "http://img.b2bpic.net/free-photo/mechanic-examining-bicycle-wheel_1170-2575.jpg?_wi=3",
                 },
               ],
             },
@@ -149,10 +149,10 @@ export default function CraftsmanshipPage() {
               title: "Track Racing Specialization",
               description: "Deep understanding of track cycling disciplines: sprint, pursuit, keirin, team sprint, omnium. Every wheelset engineered for specific race demands.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg?_wi=8",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg?_wi=7",
               },
             },
             {
@@ -160,10 +160,10 @@ export default function CraftsmanshipPage() {
               title: "Materials That Matter",
               description: "Premium carbon rims from leading manufacturers. High-quality hubs, premium spokes (Sapim CX-Ray, Champion, DT Competition), and aero-optimized lacing patterns.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg?_wi=8",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg?_wi=8",
               },
             },
             {
@@ -171,10 +171,10 @@ export default function CraftsmanshipPage() {
               title: "Precision in Every Build",
               description: "Hand-built construction ensures individual attention. Spoke tension balanced to ±0.5g. Every wheel tested and documented. Meticulous quality control from build to delivery.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg",
+                imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg?_wi=7",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/bike-creation-workshop_23-2148866630.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/bike-creation-workshop_23-2148866630.jpg?_wi=5",
               },
             },
           ]}
@@ -196,7 +196,7 @@ export default function CraftsmanshipPage() {
               name: "Sarah Chen",
               handle: "@sarahchen_velodrome",
               testimonial: "These wheels gave me the confidence to push harder in sprints. The precision in tension is absolutely noticeable. World-class craftsmanship.",
-              imageSrc: "http://img.b2bpic.net/free-photo/man-cycling-outdoors-with-his-bike_23-2149748602.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/man-cycling-outdoors-with-his-bike_23-2149748602.jpg?_wi=3",
               icon: "Sparkles",
             },
             {
@@ -204,7 +204,7 @@ export default function CraftsmanshipPage() {
               name: "Marcus Thompson",
               handle: "@marcus_track_coach",
               testimonial: "After 5 years coaching elite track cyclists, I recommend Velocity to every serious rider. No compromise on quality.",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg?_wi=9",
               icon: "Award",
             },
             {
@@ -212,7 +212,7 @@ export default function CraftsmanshipPage() {
               name: "Elena Rodriguez",
               handle: "@elena_pursuit_specialist",
               testimonial: "The 88mm deep set is my go-to for pursuit events. Incredible aero efficiency without losing responsiveness. Highly recommend.",
-              imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg?_wi=8",
               icon: "Zap",
             },
             {
@@ -220,7 +220,7 @@ export default function CraftsmanshipPage() {
               name: "James Wickham",
               handle: "@wickham_cycling",
               testimonial: "Every weekend at the velodrome with these wheels. Been through hundreds of kilometers and they still roll perfectly. Best investment.",
-              imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg?_wi=8",
               icon: "Shield",
             },
           ]}

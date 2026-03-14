@@ -90,7 +90,7 @@ export default function WheelsetsPage() {
           ]}
           mediaItems={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg?_wi=4",
               imageAlt: "Track Pro disc wheel",
             },
           ]}
@@ -109,28 +109,28 @@ export default function WheelsetsPage() {
               id: "track-pro-disc",
               name: "Track Pro Carbon Disc / 5-Spoke Combo",
               price: "$1,950",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg?_wi=5",
               imageAlt: "Track Pro disc wheel with 5-spoke front",
             },
             {
               id: "track-aero-deep",
               name: "Track Aero Deep Set",
               price: "$1,200",
-              imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg?_wi=4",
               imageAlt: "88mm deep carbon wheelset",
             },
             {
               id: "track-training",
               name: "Track Training Wheelset",
               price: "$680",
-              imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg?_wi=4",
               imageAlt: "Durable training wheelset",
             },
             {
               id: "road-aero",
               name: "Road Aero Carbon",
               price: "$1,100",
-              imageSrc: "http://img.b2bpic.net/free-photo/bike-creation-workshop_23-2148866630.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/bike-creation-workshop_23-2148866630.jpg?_wi=3",
               imageAlt: "60mm carbon aero road wheel",
             },
           ]}
@@ -154,10 +154,10 @@ export default function WheelsetsPage() {
               title: "Rim Depth Selection",
               description: "Choose from 40mm, 50mm, 60mm, 70mm, or 88mm+ options for optimal aero performance and handling characteristics.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg?_wi=5",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg",
+                imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg?_wi=5",
               },
             },
             {
@@ -165,10 +165,10 @@ export default function WheelsetsPage() {
               title: "Hub & Component Choice",
               description: "Select from premium hub manufacturers, spoke types (CX-Ray, Champion, DT Competition), and spoke counts tailored to your needs.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg?_wi=2",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg?_wi=4",
               },
             },
             {
@@ -176,10 +176,10 @@ export default function WheelsetsPage() {
               title: "Finish & Aesthetics",
               description: "Matte carbon finish, gloss polish, or custom graphics. Every wheelset can be personalized to match your team or aesthetic.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg?_wi=6",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/bike-creation-workshop_23-2148866630.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/bike-creation-workshop_23-2148866630.jpg?_wi=4",
               },
             },
           ]}
@@ -203,7 +203,7 @@ export default function WheelsetsPage() {
           useInvertedBackground={false}
           mediaAnimation="opacity"
           mediaPosition="right"
-          imageSrc="http://img.b2bpic.net/free-photo/mechanic-examining-bicycle-wheel_1170-2575.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/mechanic-examining-bicycle-wheel_1170-2575.jpg?_wi=1"
           imageAlt="Professional wheelbuilding workshop"
           inputPlaceholder="Enter your email"
           buttonText="Get Started"

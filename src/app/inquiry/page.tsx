@@ -82,7 +82,7 @@ export default function InquiryPage() {
           background={{ variant: "plain" }}
           mediaItems={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-examining-bicycle-wheel_1170-2575.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-examining-bicycle-wheel_1170-2575.jpg?_wi=4",
               imageAlt: "Professional wheelbuilding workshop",
             },
           ]}
@@ -99,7 +99,7 @@ export default function InquiryPage() {
           useInvertedBackground={false}
           mediaAnimation="opacity"
           mediaPosition="right"
-          imageSrc="http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg?_wi=9"
           imageAlt="Wheelbuilding workshop"
           inputPlaceholder="Enter your email"
           buttonText="Send Build Inquiry"
