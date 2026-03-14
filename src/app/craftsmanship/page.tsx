@@ -2,6 +2,7 @@
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import Link from "next/link";
+import { Sparkles, Award, Zap, Shield } from "lucide-react";
 import NavbarLayoutFloatingOverlay from "@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay";
 import HeroBillboardCarousel from "@/components/sections/hero/HeroBillboardCarousel";
 import TeamCardEleven from "@/components/sections/team/TeamCardEleven";
@@ -197,7 +198,7 @@ export default function CraftsmanshipPage() {
               handle: "@sarahchen_velodrome",
               testimonial: "These wheels gave me the confidence to push harder in sprints. The precision in tension is absolutely noticeable. World-class craftsmanship.",
               imageSrc: "http://img.b2bpic.net/free-photo/man-cycling-outdoors-with-his-bike_23-2149748602.jpg?_wi=3",
-              icon: "Sparkles",
+              icon: Sparkles,
             },
             {
               id: "2",
@@ -205,7 +206,7 @@ export default function CraftsmanshipPage() {
               handle: "@marcus_track_coach",
               testimonial: "After 5 years coaching elite track cyclists, I recommend Velocity to every serious rider. No compromise on quality.",
               imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg?_wi=9",
-              icon: "Award",
+              icon: Award,
             },
             {
               id: "3",
@@ -213,7 +214,7 @@ export default function CraftsmanshipPage() {
               handle: "@elena_pursuit_specialist",
               testimonial: "The 88mm deep set is my go-to for pursuit events. Incredible aero efficiency without losing responsiveness. Highly recommend.",
               imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg?_wi=8",
-              icon: "Zap",
+              icon: Zap,
             },
             {
               id: "4",
@@ -221,7 +222,7 @@ export default function CraftsmanshipPage() {
               handle: "@wickham_cycling",
               testimonial: "Every weekend at the velodrome with these wheels. Been through hundreds of kilometers and they still roll perfectly. Best investment.",
               imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg?_wi=8",
-              icon: "Shield",
+              icon: Shield,
             },
           ]}
           animationType="opacity"
