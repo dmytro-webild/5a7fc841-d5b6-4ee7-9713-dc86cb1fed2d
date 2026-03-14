@@ -99,7 +99,7 @@ export default function HomePage() {
           ]}
           mediaItems={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/man-cycling-outdoors-with-his-bike_23-2149748602.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/man-cycling-outdoors-with-his-bike_23-2149748602.jpg?_wi=1",
               imageAlt: "Premium carbon track wheels on velodrome",
             },
           ]}
@@ -144,10 +144,10 @@ export default function HomePage() {
               title: "Sprint Power",
               description: "Stiff, responsive wheels designed for explosive acceleration and maximum power transfer.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg?_wi=1",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg?_wi=1",
               },
             },
             {
@@ -155,10 +155,10 @@ export default function HomePage() {
               title: "Aerodynamic Excellence",
               description: "Deep-section rims and optimized spoke patterns minimize drag without sacrificing stability.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg?_wi=1",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg?_wi=1",
               },
             },
             {
@@ -166,10 +166,10 @@ export default function HomePage() {
               title: "Reliability",
               description: "Hand-built to exacting standards with meticulous quality control. Built to last through intense training and competition.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg",
+                imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg?_wi=1",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg?_wi=2",
               },
             },
           ]}
@@ -192,28 +192,28 @@ export default function HomePage() {
               id: "track-pro-disc",
               name: "Track Pro Carbon Disc / 5-Spoke Combo",
               price: "$1,950",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg?_wi=2",
               imageAlt: "Track Pro disc wheel with 5-spoke front",
             },
             {
               id: "track-aero-deep",
               name: "Track Aero Deep Set",
               price: "$1,200",
-              imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg?_wi=2",
               imageAlt: "88mm deep carbon wheelset",
             },
             {
               id: "track-training",
               name: "Track Training Wheelset",
               price: "$680",
-              imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg?_wi=2",
               imageAlt: "Durable training wheelset",
             },
             {
               id: "road-aero",
               name: "Road Aero Carbon",
               price: "$1,100",
-              imageSrc: "http://img.b2bpic.net/free-photo/bike-creation-workshop_23-2148866630.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/bike-creation-workshop_23-2148866630.jpg?_wi=1",
               imageAlt: "60mm carbon aero road wheel",
             },
           ]}
@@ -297,7 +297,7 @@ export default function HomePage() {
               name: "Sarah Chen",
               handle: "@sarahchen_velodrome",
               testimonial: "These wheels gave me the confidence to push harder in sprints. The precision in tension is absolutely noticeable. World-class craftsmanship.",
-              imageSrc: "http://img.b2bpic.net/free-photo/man-cycling-outdoors-with-his-bike_23-2149748602.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/man-cycling-outdoors-with-his-bike_23-2149748602.jpg?_wi=2",
               icon: Sparkles,
             },
             {
@@ -305,7 +305,7 @@ export default function HomePage() {
               name: "Marcus Thompson",
               handle: "@marcus_track_coach",
               testimonial: "After 5 years coaching elite track cyclists, I recommend Velocity to every serious rider. No compromise on quality.",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg?_wi=3",
               icon: Award,
             },
             {
@@ -313,7 +313,7 @@ export default function HomePage() {
               name: "Elena Rodriguez",
               handle: "@elena_pursuit_specialist",
               testimonial: "The 88mm deep set is my go-to for pursuit events. Incredible aero efficiency without losing responsiveness. Highly recommend.",
-              imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg?_wi=3",
               icon: Zap,
             },
             {
@@ -321,7 +321,7 @@ export default function HomePage() {
               name: "James Wickham",
               handle: "@wickham_cycling",
               testimonial: "Every weekend at the velodrome with these wheels. Been through hundreds of kilometers and they still roll perfectly. Best investment.",
-              imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg?_wi=3",
               icon: Shield,
             },
             {
@@ -329,7 +329,7 @@ export default function HomePage() {
               name: "Priya Patel",
               handle: "@priya_road_racer",
               testimonial: "Switched to Velocity for my road racing. The attention to detail and customer service is exceptional. These wheels changed my times.",
-              imageSrc: "http://img.b2bpic.net/free-photo/bike-creation-workshop_23-2148866630.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/bike-creation-workshop_23-2148866630.jpg?_wi=2",
               icon: Award,
             },
             {
@@ -337,7 +337,7 @@ export default function HomePage() {
               name: "Viktor Sokolov",
               handle: "@viktor_sprinter",
               testimonial: "Professional-grade quality at an honest price. The custom build process was seamless. Highly recommended for serious competitors.",
-              imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg?_wi=3",
               icon: Sparkles,
             },
           ]}
