@@ -99,7 +99,7 @@ export default function HomePage() {
           ]}
           mediaItems={[
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773518889849-xcy1fvyu.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773518889849-2s30380l.jpg",
               imageAlt: "Premium carbon track wheels on velodrome",
             },
           ]}
