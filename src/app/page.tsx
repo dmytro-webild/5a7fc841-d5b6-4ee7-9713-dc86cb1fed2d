@@ -192,7 +192,7 @@ export default function HomePage() {
               id: "track-pro-disc",
               name: "Track Pro Carbon Disc / 5-Spoke Combo",
               price: "$1,950",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773521782424-m6d2dthw.webp",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773521782424-d164f52t.webp",
               imageAlt: "Track Pro disc wheel with 5-spoke front",
             },
             {
@@ -206,7 +206,7 @@ export default function HomePage() {
               id: "track-training",
               name: "Track Training Wheelset",
               price: "$680",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773521782424-m6d2dthw.webp",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773521782424-d164f52t.webp",
               imageAlt: "Durable training wheelset",
             },
             {
