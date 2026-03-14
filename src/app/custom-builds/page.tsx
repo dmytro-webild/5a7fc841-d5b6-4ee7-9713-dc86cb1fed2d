@@ -87,7 +87,7 @@ export default function CustomBuildsPage() {
           ]}
           mediaItems={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg?_wi=3",
               imageAlt: "Expert wheelbuilder at work",
             },
           ]}
@@ -105,10 +105,10 @@ export default function CustomBuildsPage() {
               title: "Consultation & Design",
               description: "We discuss your riding discipline, performance goals, budget, and preferences. Our experts recommend optimal rim depth, hub selection, and spoke configuration for your specific needs.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/mechanic-examining-bicycle-wheel_1170-2575.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/mechanic-examining-bicycle-wheel_1170-2575.jpg?_wi=2",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg?_wi=5",
               },
             },
             {
@@ -116,10 +116,10 @@ export default function CustomBuildsPage() {
               title: "Component Selection",
               description: "Premium carbon rims, hub choice, premium spokes (CX-Ray, Champion, etc.), and accessories arrive at our workshop. Each component inspected for quality before assembly begins.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg?_wi=4",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg?_wi=7",
               },
             },
             {
@@ -127,10 +127,10 @@ export default function CustomBuildsPage() {
               title: "Hand-Built Assembly",
               description: "Our experienced wheelbuilders carefully assemble each wheel with precision. Spokes are laced with expert technique, and the rim is trued for absolute accuracy.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/back-view-people-talking-about-car_23-2150171274.jpg?_wi=6",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/female-carpenter-studio-with-headphones_23-2148813327.jpg?_wi=5",
               },
             },
             {
@@ -138,10 +138,10 @@ export default function CustomBuildsPage() {
               title: "Tension & Quality Control",
               description: "Each spoke is tension-measured to ±0.5g variance. Wheels undergo rigorous testing: lateral true, radial runout, bearing inspection, and a complete test ride before delivery.",
               phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg",
+                imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg?_wi=6",
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg",
+                imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg?_wi=6",
               },
             },
           ]}
