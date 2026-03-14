@@ -147,7 +147,7 @@ export default function HomePage() {
                 imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773518889849-xcy1fvyu.jpg",
               },
               phoneTwo: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773518889849-2s30380l.jpg",
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773521884082-jeagjs15.jpg",
               },
             },
             {
@@ -166,7 +166,7 @@ export default function HomePage() {
               title: "Reliability",
               description: "Hand-built to exacting standards with meticulous quality control. Built to last through intense training and competition.",
               phoneOne: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773518889848-t1kd92ma.jpg",
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773521882605-2qirqjfb.webp",
               },
               phoneTwo: {
                 imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773518889849-dfaphvgx.jpg",
@@ -192,28 +192,28 @@ export default function HomePage() {
               id: "track-pro-disc",
               name: "Track Pro Carbon Disc / 5-Spoke Combo",
               price: "$1,950",
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-man-fixing-chain-bicycle_23-2147874054.jpg?_wi=2",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773521782424-m6d2dthw.webp",
               imageAlt: "Track Pro disc wheel with 5-spoke front",
             },
             {
               id: "track-aero-deep",
               name: "Track Aero Deep Set",
               price: "$1,200",
-              imageSrc: "http://img.b2bpic.net/free-photo/crop-man-riding-bicycle_23-2147764124.jpg?_wi=2",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773521782423-hsq0gw2b.webp",
               imageAlt: "88mm deep carbon wheelset",
             },
             {
               id: "track-training",
               name: "Track Training Wheelset",
               price: "$680",
-              imageSrc: "http://img.b2bpic.net/free-vector/performance-meter-cog_78370-8338.jpg?_wi=2",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773521782424-m6d2dthw.webp",
               imageAlt: "Durable training wheelset",
             },
             {
               id: "road-aero",
               name: "Road Aero Carbon",
               price: "$1,100",
-              imageSrc: "http://img.b2bpic.net/free-photo/bike-creation-workshop_23-2148866630.jpg?_wi=1",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AwuRYrHUeRO0zxmqQtchlcmAOo/uploaded-1773521782424-82v5xau8.jpg",
               imageAlt: "60mm carbon aero road wheel",
             },
           ]}
